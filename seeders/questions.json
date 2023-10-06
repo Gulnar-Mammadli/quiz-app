@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "question": "Which of the following keywords is used to define a variable in Javascript"
+    },
+
+    {
+        "id": 2,
+        "question": "Which of the following methods is used to access an HTML element using Javascript"
+    },
+
+    {
+        "id": 3,
+        "question": "Which of the following methods can be used to display data in the same form in Javascript"
+    }
+]

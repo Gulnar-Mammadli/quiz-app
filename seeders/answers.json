@@ -1,0 +1,42 @@
+[
+    {
+        "question_id": 1,
+        "answer" : "var",
+        "correct": false
+    },
+    {
+        "question_id": 1,
+        "answer" : "let",
+        "correct": false
+    },
+    {
+        "question_id": 1,
+        "answer" : "Both A and B",
+        "correct": true
+    },
+    {
+        "question_id": 1,
+        "answer" : "None of the above",
+        "correct": false
+    },
+    {
+        "question_id": 2,
+        "answer" : "getElementById()",
+        "correct": false
+    },
+    {
+        "question_id": 2,
+        "answer" : "getElementByClassName()",
+        "correct": false
+    },
+    {
+        "question_id": 2,
+        "answer" : "Both A and B",
+        "correct": true
+    },
+    {
+        "question_id": 2,
+        "answer" : "None of the above",
+        "correct": false
+    }
+]
